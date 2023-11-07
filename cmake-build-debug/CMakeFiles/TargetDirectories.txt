@@ -1,0 +1,3 @@
+D:/STUDIA/DANTE/CLionProjects/OU_test/test.cpp/cmake-build-debug/CMakeFiles/test_cpp.dir
+D:/STUDIA/DANTE/CLionProjects/OU_test/test.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STUDIA/DANTE/CLionProjects/OU_test/test.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
